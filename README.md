@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <samp>
+    :wave: Hey! Welcome to my profile,Take a look at my stats :P<br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deaningo&&show_icons=true&&theme=tokyonight" />
+  </samp>
+<br>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deaningo&&show_icons=true&&theme=tokyonight" />
