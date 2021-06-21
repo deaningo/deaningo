@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
     :wave: Hey! Welcome to my profile,Take a look at my stats :<br><br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deaningo&show_icons=true&theme=github_dark" width="60%" height="195"/>
+    <a href="https://github.com/mokeyjay"><img src="https://github-readme-stats.vercel.app/api?username=mokeyjay&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokeyjay&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+<!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=deaningo&show_icons=true&theme=github_dark" width="60%" height="195"/> -->
 <!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deaningo&layout=compact" width="40%" height="195"> -->
   </samp>
 <br>
