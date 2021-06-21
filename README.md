@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
   <samp>
     :wave: Hey! Welcome to my profile,Take a look at my stats :<br><br>
-    
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=deaningo&&show_icons=true&&theme=tokyonight" />
   </samp>
 <br>
 </p>
